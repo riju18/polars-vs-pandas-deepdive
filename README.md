@@ -10,5 +10,5 @@
 
 - clone the repo
 - install the `requirements.txt` file
-- Extract the zip file and place the file named `data8277.csv`
+- Extract the zip file and place the file named `data8277.csv` in root dir
 - Run either `.ipynb` or `.py` file
